@@ -1,0 +1,8 @@
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\bin\Debug\Utilidad vectores.exe.config
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\bin\Debug\Utilidad vectores.exe
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\bin\Debug\Utilidad vectores.pdb
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\obj\Debug\Utilidad vectores.csproj.AssemblyReference.cache
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\obj\Debug\Utilidad vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\obj\Debug\Utilidad vectores.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\obj\Debug\Utilidad vectores.exe
+C:\Users\Hugo Paz\Desktop\Repositorio_C#\Utilidad vectores\Utilidad vectores\obj\Debug\Utilidad vectores.pdb
