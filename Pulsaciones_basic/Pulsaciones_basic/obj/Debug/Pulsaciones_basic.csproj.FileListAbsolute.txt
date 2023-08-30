@@ -1,0 +1,8 @@
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\obj\Debug\Pulsaciones_basic.csproj.AssemblyReference.cache
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\obj\Debug\Pulsaciones_basic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\obj\Debug\Pulsaciones_basic.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\bin\Debug\Pulsaciones_basic.exe.config
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\bin\Debug\Pulsaciones_basic.exe
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\bin\Debug\Pulsaciones_basic.pdb
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\obj\Debug\Pulsaciones_basic.exe
+C:\Users\Hugo Paz\Desktop\Repositorio C#\Pulsaciones_basic\Pulsaciones_basic\obj\Debug\Pulsaciones_basic.pdb
